@@ -1,0 +1,14 @@
+@FinancePlan_HostAddress = https://localhost:7097
+
+GET {{FinancePlan_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{FinancePlan_HostAddress}}/weatherforecast
+
+###
+
+GET {{FinancePlan_HostAddress}}/api/category
+
+###
